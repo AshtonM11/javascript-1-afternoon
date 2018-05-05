@@ -101,13 +101,7 @@ var ruff = dog.bark();
 
 //Return mySum.
 
-function looper(arr){
-var mySum = 0
-for (var i = 0; i< arr.length; i ++){
-  if([arr]i === )
-}
-
-}
+//
 
 //////////////////PROBLEM 7////////////////////
 
